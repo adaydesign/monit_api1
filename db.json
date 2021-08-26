@@ -30,5 +30,62 @@
             "end_point": "10.1.2.7:3000",
             "online": false
         }
+    ],
+    "group2": [
+        {
+            "server": "server 11",
+            "end_point": "10.1.2.3:3000",
+            "online": false
+        },
+        {
+            "server": "server 12",
+            "end_point": "10.1.2.4:3000",
+            "online": false
+        },
+        {
+            "server": "server 13",
+            "end_point": "10.1.2.4:3000",
+            "online": false
+        },
+        {
+            "server": "server 14",
+            "end_point": "10.1.2.5:3000",
+            "online": false
+        },
+        {
+            "server": "server 15",
+            "end_point": "10.1.2.6:3000",
+            "online": false
+        },
+        {
+            "server": "server 16",
+            "end_point": "10.1.2.7:3000",
+            "online": false
+        },
+        {
+            "server": "server 17",
+            "end_point": "10.1.2.4:3000",
+            "online": false
+        },
+        {
+            "server": "server 18",
+            "end_point": "10.1.2.4:3000",
+            "online": false
+        },
+        {
+            "server": "server 19",
+            "end_point": "10.1.2.5:3000",
+            "online": false
+        },
+        {
+            "server": "server 20",
+            "end_point": "10.1.2.6:3000",
+            "online": false
+        },
+        {
+            "server": "server 21",
+            "end_point": "10.1.2.7:3000",
+            "online": false
+        }
     ]
 }
